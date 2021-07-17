@@ -12,12 +12,12 @@
         "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splashlogo.png.flat",
-        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\drawable\\splashlogo.png"
-    },
-    {
         "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gitlab.png.flat",
         "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\gitlab.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splashlogo.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\drawable\\splashlogo.png"
     },
     {
         "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_checkdone.png.flat",
@@ -144,12 +144,12 @@
         "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\profileimage.png"
     },
     {
-        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_arrow_right.png.flat",
-        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\arrow_right.png"
-    },
-    {
         "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_emoji_emotions_24.png.flat",
         "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_emoji_emotions_24.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_arrow_right.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\arrow_right.png"
     },
     {
         "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_network.png.flat",

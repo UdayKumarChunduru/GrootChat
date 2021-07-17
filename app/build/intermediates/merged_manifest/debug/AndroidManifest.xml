@@ -72,7 +72,9 @@
         <activity android:name="com.v.grootchat.GroupChatActivity" />
         <activity android:name="com.v.grootchat.SignInActivity" />
         <activity android:name="com.v.grootchat.SignUpActivity" />
-        <activity android:name="com.v.grootchat.MainActivity" />
+        <activity
+            android:name="com.v.grootchat.MainActivity"
+            android:configChanges="uiMode" />
         <activity android:name="com.v.grootchat.SplashActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

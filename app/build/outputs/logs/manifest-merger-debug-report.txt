@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:2:1-58:12
-INJECTED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:2:1-58:12
-INJECTED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:2:1-58:12
-INJECTED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:2:1-58:12
+ADDED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:2:1-59:12
 MERGED from [androidx.databinding:viewbinding:4.2.2] C:\Users\udayk\.gradle\caches\transforms-2\files-2.1\ee0de1d8e8265a7fec362592df88382f\viewbinding-4.2.2\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\udayk\.gradle\caches\transforms-2\files-2.1\f4f855faf7baa795533eaaa835dc2b70\multidex-2.0.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\udayk\.gradle\caches\transforms-2\files-2.1\8b63f0b43f14224a3880b479c5fe69e5\material-1.4.0\AndroidManifest.xml:17:1-24:12
@@ -98,22 +98,22 @@ MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\udayk\.gradle\caches\transfo
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\udayk\.gradle\caches\transforms-2\files-2.1\7743680fe8b208c3b81ff17fa06d3c1e\annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [io.michaelrocks:libphonenumber-android:8.12.19-2] C:\Users\udayk\.gradle\caches\transforms-2\files-2.1\0d0968a39fe37497a5b7f04098f33822\libphonenumber-android-8.12.19-2\AndroidManifest.xml:2:1-9:12
 MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\udayk\.gradle\caches\transforms-2\files-2.1\f2b894ab9ec4bb4b8ccf09a72f6c9bbf\exifinterface-27.1.0\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:2:1-58:12
-INJECTED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:2:1-58:12
-INJECTED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:2:1-59:12
 	package
 		ADDED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:4:5-30
 		INJECTED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml
 		INJECTED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml
-		ADDED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:2:1-58:12
+		ADDED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:2:1-59:12
 		INJECTED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml
-		ADDED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:2:1-58:12
+		ADDED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:2:1-59:12
 		INJECTED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:2:11-69
@@ -200,7 +200,7 @@ MERGED from [androidx.biometric:biometric:1.1.0] C:\Users\udayk\.gradle\caches\t
 	android:name
 		ADDED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:14:22-71
 application
-ADDED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:16:5-56:19
+ADDED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:16:5-57:19
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\udayk\.gradle\caches\transforms-2\files-2.1\8b63f0b43f14224a3880b479c5fe69e5\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\udayk\.gradle\caches\transforms-2\files-2.1\8b63f0b43f14224a3880b479c5fe69e5\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\udayk\.gradle\caches\transforms-2\files-2.1\5e2773820ccd614b14186b52fa2d4d3e\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
@@ -338,29 +338,31 @@ ADDED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml
 	android:name
 		ADDED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:43:19-49
 activity#com.v.grootchat.MainActivity
-ADDED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:44:9-59
+ADDED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:44:9-45:55
+	android:configChanges
+		ADDED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:45:13-43
 	android:name
 		ADDED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:44:19-47
 activity#com.v.grootchat.SplashActivity
-ADDED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:45:9-51:20
+ADDED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:46:9-52:20
 	android:name
-		ADDED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:45:19-49
+		ADDED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:46:19-49
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:46:13-50:29
+ADDED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:47:13-51:29
 action#android.intent.action.MAIN
-ADDED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:47:17-69
+ADDED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:48:17-69
 	android:name
-		ADDED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:47:25-66
+		ADDED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:48:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:49:17-77
+ADDED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:50:17-77
 	android:name
-		ADDED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:49:27-74
+		ADDED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:50:27-74
 meta-data#preloaded_fonts
-ADDED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:53:9-55:57
+ADDED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:54:9-56:57
 	android:resource
-		ADDED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:55:13-54
+		ADDED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:56:13-54
 	android:name
-		ADDED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:54:13-43
+		ADDED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml:55:13-43
 uses-sdk
 INJECTED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\ANDROID APP DEVELOPMENT\GrootChat\app\src\main\AndroidManifest.xml
