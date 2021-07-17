@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context=".OTPVerificationActivity">
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/phone"
+        android:id="@+id/PhoneLogo"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="36dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter Code"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="18dp"/>
+    <TextView
+        android:layout_width="265dp"
+        android:layout_height="wrap_content"
+        android:text="We've sent an SMS with a activation to your Mobile Number"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:layout_marginTop="9dp"
+        android:layout_gravity="center_horizontal"/>
+    <TextView
+        android:id="@+id/textMobile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:layout_gravity="center_horizontal"
+        android:textAlignment="center"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="18dp"
+        android:layout_gravity="center"
+        android:gravity="center_horizontal"
+        android:imeOptions="actionNext|actionPrevious"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/OTP1"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:inputType="number"
+            android:textAlignment="center"
+            android:maxLength="1"
+            android:imeOptions="actionNext"
+            android:importantForAutofill="yes"
+            android:background="@drawable/shape2"/>
+        <EditText
+            android:id="@+id/OTP2"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:inputType="number"
+            android:layout_marginStart="3dp"
+            android:textAlignment="center"
+            android:maxLength="1"
+            android:imeOptions="actionNext|actionPrevious"
+            android:importantForAutofill="yes"
+            android:background="@drawable/shape2"/>
+        <EditText
+            android:id="@+id/OTP3"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:inputType="number"
+            android:layout_marginStart="3dp"
+            android:textAlignment="center"
+            android:maxLength="1"
+            android:imeOptions="actionNext|actionPrevious"
+            android:importantForAutofill="yes"
+            android:background="@drawable/shape2"/>
+        <EditText
+            android:id="@+id/OTP4"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:inputType="number"
+            android:textAlignment="center"
+            android:layout_marginStart="3dp"
+            android:maxLength="1"
+            android:imeOptions="actionNext|actionPrevious"
+            android:importantForAutofill="yes"
+            android:background="@drawable/shape2"/>
+        <EditText
+            android:id="@+id/OTP5"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:inputType="number"
+            android:layout_marginStart="3dp"
+            android:textAlignment="center"
+            android:maxLength="1"
+            android:imeOptions="actionNext|actionPrevious"
+            android:importantForAutofill="yes"
+            android:background="@drawable/shape2"/>
+        <EditText
+            android:id="@+id/OTP6"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:inputType="number"
+            android:layout_marginStart="3dp"
+            android:textAlignment="center"
+            android:maxLength="1"
+            android:imeOptions="actionDone|actionPrevious"
+            android:importantForAutofill="yes"
+            android:background="@drawable/shape2"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="18dp"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Didn't Receive OTP ?"
+            />
+        <TextView
+            android:id="@+id/textResendOTP"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" - Resend OTP"
+            android:tooltipText="Resend OTP"
+            android:textStyle="bold"/>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/VerifyOTP"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Verify"
+        android:background="@drawable/shape2"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="27dp"
+        android:onClick="VeryOTP"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Firebase Will Call you In"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="3dp"
+        android:textStyle="normal"
+        android:textAlignment="center"/>
+    <TextView
+        android:id="@+id/textTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="3dp"
+        android:textStyle="bold"
+        android:text="120.21"
+        android:textAlignment="center"/>
+
+    <ProgressBar
+        android:id="@+id/progressBar1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:visibility="gone"
+        android:layout_marginTop="3dp"/>
+
+</LinearLayout>

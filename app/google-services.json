@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "909458666711",
+    "firebase_url": "https://groot-chat-default-rtdb.firebaseio.com",
+    "project_id": "groot-chat",
+    "storage_bucket": "groot-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909458666711:android:681f834f3bd6161c106c92",
+        "android_client_info": {
+          "package_name": "com.v.grootchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909458666711-b8p6lediqa3s9csio6e0389ko06pcns8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.v.grootchat",
+            "certificate_hash": "6697ef9598f27d70d1bcb67c311a5695441d1909"
+          }
+        },
+        {
+          "client_id": "909458666711-jcnqqknsc0h3lq0lj2iv242i5qb2d255.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsIAbF3rI56S0wSMi72zaIPYmwsSVE_OA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909458666711-jcnqqknsc0h3lq0lj2iv242i5qb2d255.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

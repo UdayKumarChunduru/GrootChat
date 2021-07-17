@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Groot Chat</string>
+    <string name="heading">Groot Chat</string>
+    <string name="headingdescription">Create New Groot Account</string>
+    <string name="name1">Full Name</string>
+    <string name="email1">E-Mail Address</string>
+    <string name="password1">Password</string>
+    <string name="phone1">Mobile Number</string>
+    <string name="registerbutton">Register</string>
+    <string name="alrlgn">Already Registered? Login Here</string>
+    <string name="loginbutton">LogIn</string>
+    <string name="email2">Email Address / UserName</string>
+    <string name="password2">Password</string>
+    <string name="headingdescription2">Login To Groot Account</string>
+    <string name="nhcga">New Here? Create A Groot Account</string>
+    <string name="olw">Or Login With</string>
+    <string name="orw">Or Register With</string>
+    <string name="mobiletext">Mobile</string>
+    <string name="googletext">Google</string>
+    <string name="facebooktext">Facebook</string>
+    <string name="tool1">Enter Your Full Name</string>
+    <string name="tool2">Enter Your E-Mail Address</string>
+    <string name="tool3">Enter Your Password</string>
+    <string name="tool4">Register Your Groot Account</string>
+    <string name="tool5">Login To Your Groot Account</string>
+    <string name="tool6">Mobile Login</string>
+    <string name="tool7">Google Login</string>
+    <string name="tool8">Facebook Login</string>
+    <string name="tool9">Enter Email Address / UserName</string>
+    <string name="tool10">Enter Your Password</string>
+    <string name="tool11">Login To Your Groot Account</string>
+    <string name="tool12">Register Your Groot Account</string>
+    <string name="hello_blank_fragment">CHATS</string>
+
+    <string name="EnterM"><font color='#FF0000'>*</font>Enter Your Mobile Number</string>
+    <string name="EnterO"><font color='#FF0000'>*</font>Enter OTP Received</string>
+    <string name="ChooseCC"><font color='#FF0000'>*</font>Choose Country Code According Your Origin</string>
+
+
+</resources>

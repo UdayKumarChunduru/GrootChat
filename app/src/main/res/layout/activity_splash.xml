@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="?colorSurface"
+    tools:context=".SplashActivity">
+
+    <ImageView
+        android:layout_width="99dp"
+        android:layout_height="99dp"
+        android:layout_marginTop="144dp"
+        android:id="@+id/SplashLogo"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/whatsapplogo"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:id="@+id/ll">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="403dp"
+            android:text="from"
+            android:textColor="#e0e2e4"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textAlignment="center"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Groot Chat"
+            android:textColor="#e0e2e4"
+            android:textSize="23sp"
+            android:textStyle="bold"
+            android:textAlignment="center"/>
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,1114 @@
+[
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_notifications.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\notifications.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arrow_background.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\drawable\\arrow_background.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gitlab.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\gitlab.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splashlogo.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\drawable\\splashlogo.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_checkdone.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\checkdone.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_fingerprint.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\fingerprint.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_passvisible.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\passvisible.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_network.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\network.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_chatcall.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_chatcall.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_chatvideocall.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_chatvideocall.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_checkdone.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\checkdone.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_leftarrow.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_leftarrow.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_chatvideocall.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_chatvideocall.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_webhook.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\webhook.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_linkedin.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\linkedin.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_aboutus.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\aboutus.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_privacypolicy.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\privacypolicy.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_gitlab.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\gitlab.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_linkedin.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\linkedin.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_chatmenu.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_chatmenu.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_upload.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\upload.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_phone1.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_phone1.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_group.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\group.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_help.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\help.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_otpverification.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\layout\\activity_otpverification.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_help.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\help.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_chatmenu.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_chatmenu.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_github.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\github.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_passvisible.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\passvisible.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_help.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\help.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_webhook.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\webhook.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_profileimage.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\profileimage.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_emoji_emotions_24.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_emoji_emotions_24.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_arrow_right.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\arrow_right.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_network.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\network.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_passinvisible.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\passinvisible.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_chatcall.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_chatcall.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_privacypolicy.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\privacypolicy.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_arrow_right.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\arrow_right.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_phone.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\layout\\activity_phone.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_network.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\network.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_leftarrow.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\leftarrow.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_aboutus.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\aboutus.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_leftarrow.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_leftarrow.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_chatcall.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_chatcall.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_send_circle.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\send_circle.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_email1.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_email1.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_keyboard.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\keyboard.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_email1.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_email1.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_passvisible.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\passvisible.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_checkdone.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\checkdone.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_chatcall.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_chatcall.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\font_baloo.ttf.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\font\\baloo.ttf"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_leftarrow.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\leftarrow.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_person1.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_person1.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_leftarrow.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\leftarrow.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_linkedin.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\linkedin.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_upload.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\upload.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_person1.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_person1.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_in.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_aboutus.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\aboutus.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_github.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\github.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_chatcall.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_chatcall.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fingerprint.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\layout\\activity_fingerprint.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_up.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_phone1.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_phone1.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_github.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\github.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_passvisible.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\passvisible.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape3.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\drawable\\shape3.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_keyboard.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_keyboard.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_person1.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_person1.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_fingerprint.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\fingerprint.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gitlab.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\gitlab.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_phone1.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_phone1.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\font_aclonica.ttf.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\font\\aclonica.ttf"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_upload.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\upload.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_github.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\github.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_person1.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_person1.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_network.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\network.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_keyboard.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_keyboard.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_chatcall.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_chatcall.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_upload.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\upload.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_privacypolicy.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\privacypolicy.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_leftarrow.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_leftarrow.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_group.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\group.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_send_circle.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\send_circle.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_passvisible.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\passvisible.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_person1.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_person1.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_keyboard.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\keyboard.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_aboutus.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\aboutus.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_linkedin.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\linkedin.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_passinvisible.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\passinvisible.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_arrow_right.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\arrow_right.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_help.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\help.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_whatsapplogo.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\whatsapplogo.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_checkdone.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\checkdone.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_leftarrow.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_leftarrow.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_privacypolicy.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\privacypolicy.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_chatmenu.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_chatmenu.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_notifications.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\notifications.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_profileimage.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\profileimage.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_keyboard.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\keyboard.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_phone1.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_phone1.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_pass1.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_pass1.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_email1.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_email1.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_upload.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\upload.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_whatsapplogo.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\whatsapplogo.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_passinvisible.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\passinvisible.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\drawable\\shape.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_chatvideocall.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_chatvideocall.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_notifications.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\notifications.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arrow_right.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\arrow_right.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_gitlab.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\gitlab.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_email1.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_email1.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sendicon.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\drawable\\sendicon.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_send_circle.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\send_circle.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_help.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\help.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_man.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\drawable\\man.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_phone1.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_phone1.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape4.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\drawable\\shape4.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_github.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\github.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_webhook.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\webhook.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_profileimage.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\profileimage.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_status.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\layout\\fragment_status.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_privacypolicy.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\privacypolicy.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_pass1.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_pass1.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_help.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\help.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_whatsapplogo.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\whatsapplogo.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_chatvideocall.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_chatvideocall.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_webhook.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\webhook.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_whatsapplogo.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\whatsapplogo.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_leftarrow.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\leftarrow.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_send_circle.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\send_circle.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fingerprint.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\fingerprint.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\layout_reset.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\layout\\reset.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\layout_sample_receiver.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\layout\\sample_receiver.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_profileimage.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\profileimage.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_passinvisible.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\passinvisible.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_fingerprint.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\fingerprint.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_keyboard.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_keyboard.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_github.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\github.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_avatar.jpg.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\drawable\\avatar.jpg"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_upload.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\upload.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_keyboard.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\keyboard.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_emoji_emotions_24.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_emoji_emotions_24.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_checkdone.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\checkdone.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_profileimage.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\profileimage.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_pass1.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_pass1.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_fingerprint.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\fingerprint.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_calls.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\layout\\fragment_calls.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_group.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\group.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_send_circle.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\send_circle.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_keyboard.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_keyboard.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_keyboard.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\keyboard.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_whatsapp.webp.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\drawable\\whatsapp.webp"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_aboutus.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\aboutus.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_notifications.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\notifications.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_aboutus.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\aboutus.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_leftarrow.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\leftarrow.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_passinvisible.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\passinvisible.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\font_alef_bold.ttf.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\font\\alef_bold.ttf"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_group.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\group.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_passvisible.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\passvisible.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_developers_screen.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\layout\\activity_developers_screen.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_notifications.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\notifications.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_whatsapplogo.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\whatsapplogo.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_group.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\group.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_gitlab.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\gitlab.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat_detail.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\layout\\activity_chat_detail.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_send_circle.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\send_circle.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_passinvisible.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\passinvisible.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_phone1.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_phone1.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_help.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\help.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_chatmenu.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_chatmenu.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\layout_sample_sender.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\layout\\sample_sender.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_arrow_right.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\arrow_right.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape5.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\drawable\\shape5.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_upload.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\upload.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_github.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\github.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_leftarrow.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_leftarrow.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_chatvideocall.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_chatvideocall.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_arrow_right.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\arrow_right.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_linkedin.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\linkedin.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_chatcall.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_chatcall.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_chatmenu.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_chatmenu.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_linkedin.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\linkedin.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_person1.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_person1.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_sender.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\drawable\\bg_sender.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_receiver.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\drawable\\bg_receiver.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_leftarrow.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_leftarrow.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_email1.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_email1.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_emoji_emotions_24.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_emoji_emotions_24.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_webhook.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\webhook.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_privacypolicy.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\privacypolicy.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_network.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\network.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_fingerprint.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\fingerprint.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_chats.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\layout\\fragment_chats.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_pass1.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_pass1.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_emoji_emotions_24.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_emoji_emotions_24.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_checkdone.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\checkdone.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_leftarrow.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_leftarrow.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_keyboard.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_keyboard.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_chatvideocall.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_chatvideocall.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_passvisible.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\passvisible.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_network.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\network.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_keyboard.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_keyboard.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_aboutus.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\aboutus.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_arrow_right.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\arrow_right.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_phone.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\drawable\\phone.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_google.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\drawable\\google.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_pass1.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_pass1.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_send_circle.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\send_circle.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_facebook.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\drawable\\facebook.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_chatvideocall.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_chatvideocall.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_profileimage.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\profileimage.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_chatmenu.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_chatmenu.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape2.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\drawable\\shape2.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_email1.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_email1.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_chatmenu.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_chatmenu.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_webhook.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\webhook.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_leftarrow.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\leftarrow.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_keyboard.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\keyboard.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_checkdone.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\checkdone.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_pass1.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_pass1.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_privacypolicy.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\privacypolicy.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_profileimage.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\profileimage.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_fingerprint.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\fingerprint.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_phone1.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_phone1.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_pass1.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_pass1.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape1.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\drawable\\shape1.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_leftarrow.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\leftarrow.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_person1.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_person1.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_group.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\group.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_emoji_emotions_24.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_emoji_emotions_24.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_settingsbg.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\drawable\\settingsbg.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_webhook.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\webhook.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_keyboard.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_keyboard.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_gitlab.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\gitlab.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_network.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\network.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_group.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\group.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_emoji_emotions_24.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_emoji_emotions_24.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_notifications.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\notifications.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_whatsapplogo.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\whatsapplogo.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_gitlab.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\gitlab.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_linkedin.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\linkedin.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_passinvisible.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\passinvisible.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_keyboard.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\keyboard.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_email1.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_email1.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\layout_sample_show_user.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\layout\\sample_show_user.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_whatsapplogo.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\whatsapplogo.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_emoji_emotions_24.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_emoji_emotions_24.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_group_chat.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\layout\\activity_group_chat.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_notifications.png.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\notifications.png"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\res\\merged\\debug\\font_creepster.xml.flat",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\font\\creepster.xml"
+    }
+]

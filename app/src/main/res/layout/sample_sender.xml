@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/CL2"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="7dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="7dp"
+        android:background="@drawable/bg_sender"
+        android:maxWidth="342dp"
+        android:maxHeight="540dp"
+        android:minHeight="30dp">
+
+
+        <TextView
+            android:id="@+id/senderText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textMultiLine|textLongMessage"
+            android:maxWidth="261dp"
+            android:minWidth="54dp"
+            android:maxHeight="540dp"
+            android:text="TextView"
+            android:textColor="#FFFFFF"
+            android:textSize="14.5sp"
+            app:layout_constraintStart_toStartOf="@id/CL2"
+            android:padding="7dp"
+            android:layout_marginStart="5dp"
+            android:textIsSelectable="true"
+            android:editable="false"
+            android:layout_marginTop="1dp"
+            app:layout_constraintEnd_toStartOf="@+id/guideline2"/>
+        <TextView
+            android:id="@+id/senderTime"
+            android:layout_width="43dp"
+            android:layout_height="14dp"
+            android:text="12:30AM"
+            android:textColor="#FFFFFF"
+            android:layout_marginTop="1dp"
+            android:textSize="10sp"
+            android:editable="false"
+            android:layout_marginEnd="11dp"
+            android:layout_marginBottom="3dp"
+            android:textAlignment="textStart"
+            android:textAllCaps="true"
+            app:layout_constraintStart_toEndOf="@+id/guideline4"
+            app:layout_constraintBottom_toBottomOf="@+id/CL2"
+            app:layout_constraintEnd_toEndOf="@+id/CL2"
+            app:layout_constraintTop_toBottomOf="@+id/senderText"/>
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/guideline2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintGuide_end="25dp" />
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/guideline3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintGuide_end="25dp"
+            app:layout_constraintGuide_percent="0.7647059" />
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/guideline4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintGuide_begin="45dp" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+</RelativeLayout>

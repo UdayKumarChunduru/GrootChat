@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash.xml",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_fingerprint.xml",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\layout\\activity_fingerprint.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\sample_show_user.xml",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\layout\\sample_show_user.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_developers_screen.xml",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\layout\\activity_developers_screen.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\sample_sender.xml",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\layout\\sample_sender.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_calls.xml",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\layout\\fragment_calls.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_group_chat.xml",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\layout\\activity_group_chat.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\reset.xml",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\layout\\reset.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_sign_up.xml",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_chat_detail.xml",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\layout\\activity_chat_detail.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_phone.xml",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\layout\\activity_phone.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_otpverification.xml",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\layout\\activity_otpverification.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_settings.xml",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_sign_in.xml",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\sample_receiver.xml",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\layout\\sample_receiver.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_chats.xml",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\layout\\fragment_chats.xml"
+    },
+    {
+        "merged": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_status.xml",
+        "source": "D:\\ANDROID APP DEVELOPMENT\\GrootChat\\app\\src\\main\\res\\layout\\fragment_status.xml"
+    }
+]

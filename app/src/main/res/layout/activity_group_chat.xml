@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GroupChatActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/CL"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/LeftArrow"
+                android:layout_width="wrap_content"
+                android:layout_height="43dp"
+                app:layout_constraintStart_toStartOf="@+id/CL"
+                app:srcCompat="@drawable/ic_leftarrow"
+                tools:ignore="VectorDrawableCompat"
+                tools:layout_editor_absoluteY="2dp" />
+
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/profileImage"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:padding="3dp"
+                android:src="@drawable/avatar"
+                app:civ_border_color="#FF000000"
+                app:civ_border_width="0dp"
+                app:layout_constraintStart_toEndOf="@+id/LeftArrow"
+                tools:layout_editor_absoluteY="0dp"
+                tools:ignore="MissingConstraints" />
+
+            <TextView
+                android:id="@+id/userName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="3dp"
+                android:layout_marginTop="6dp"
+                android:gravity="center"
+                android:text="Groot Chat"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                app:layout_constraintStart_toEndOf="@+id/profileImage"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/chatVideoCall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="12dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toStartOf="@+id/chatCall"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.777"
+                app:srcCompat="@drawable/ic_chatvideocall"
+                tools:ignore="ContentDescription" />
+
+            <ImageView
+                android:id="@+id/chatCall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="12dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toStartOf="@+id/chatSettings"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.7"
+                app:srcCompat="@drawable/ic_chatcall"
+                tools:ignore="ContentDescription" />
+
+            <ImageView
+                android:id="@+id/chatSettings"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="18dp"
+                android:layout_marginTop="5dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.611"
+                app:srcCompat="@drawable/ic_chatmenu"
+                tools:ignore="ContentDescription" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/chatRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/chatTypeMessage"
+        android:layout_below="@+id/toolbar"
+        android:layout_marginTop="3dp"
+        android:layout_marginBottom="3dp"
+        android:name="blah.ui.meetings.MeetingEventFragment"
+        tools:context=".ui.meetings.MeetingEventFragment" />
+
+    <EditText
+        android:id="@+id/chatTypeMessage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape1"
+        android:padding="12dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginBottom="2dp"
+        android:layout_marginEnd="49dp"
+        android:ems="10"
+        android:maxHeight="144dp"
+        android:paddingStart="45dp"
+        android:hapticFeedbackEnabled="true"
+        android:tooltipText="Type a Message"
+        android:hint="Type a Message"
+        android:inputType="textMultiLine"
+        android:layout_alignParentBottom="true"
+        tools:ignore="RtlSymmetry"
+        android:autofillHints="Hello|Hi" />
+
+    <ImageView
+        android:id="@+id/keyboard"
+        android:layout_width="39dp"
+        android:layout_height="49dp"
+        android:layout_alignTop="@+id/chatTypeMessage"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="7dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginBottom="2dp"
+        android:padding="9dp"
+        android:src="@drawable/keyboard"
+        tools:ignore="ContentDescription" />
+
+    <ImageView
+        android:id="@+id/sendIcon"
+        android:layout_width="39dp"
+        android:layout_height="45dp"
+        android:layout_alignTop="@+id/chatTypeMessage"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="7dp"
+        android:layout_marginBottom="9dp"
+        app:srcCompat="@drawable/send_circle"
+        tools:ignore="ContentDescription" />
+
+
+</RelativeLayout>

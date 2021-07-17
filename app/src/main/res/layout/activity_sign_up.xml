@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".SignInActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="162dp"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="25dp"
+        android:id="@+id/ll1"
+        tools:ignore="UselessParent">
+
+        <ImageView
+            android:id="@+id/applogo1"
+            android:layout_width="106dp"
+            android:layout_height="92dp"
+            app:layout_constraintBottom_toTopOf="@+id/textView3"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="1.0"
+            app:srcCompat="@drawable/whatsapplogo" />
+
+        <TextView
+            android:id="@+id/heading1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/baloo"
+            android:text="@string/heading"
+            android:textColor="#1c2939"
+            android:textSize="25sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.176" />
+
+        <TextView
+            android:id="@+id/headingdes1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="-9dp"
+            android:fontFamily="@font/aclonica"
+            android:text="@string/headingdescription"
+            android:textColor="#1c2939"
+            android:textSize="15sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView3"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="25dp"
+        android:paddingStart="16dp"
+        android:paddingEnd="18dp"
+        android:gravity="center_horizontal"
+        android:id="@+id/ll2">
+
+        <EditText
+            android:id="@+id/name1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableStart="@drawable/ic_person1"
+            android:drawablePadding="9dp"
+            android:padding="14dp"
+            android:background="@drawable/shape"
+            android:hint="@string/name1"
+            android:inputType="textPersonName"
+            android:textColorHint="#1c2939"
+            android:importantForAccessibility="yes"
+            android:textColor="#000000"
+            android:tooltipText="@string/tool1"
+            android:hapticFeedbackEnabled="true"
+            tools:ignore="UnusedAttribute" />
+
+        <EditText
+            android:id="@+id/email1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableStart="@drawable/ic_email1"
+            android:drawablePadding="9dp"
+            android:padding="14dp"
+            android:background="@drawable/shape"
+            android:hint="@string/email1"
+            android:inputType="textEmailAddress"
+            android:textColorHint="#1c2939"
+            android:importantForAccessibility="yes"
+            android:textColor="#000000"
+            android:tooltipText="@string/tool2"
+            android:hapticFeedbackEnabled="true"
+            tools:ignore="UnusedAttribute" />
+
+        <EditText
+            android:id="@+id/password1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableStart="@drawable/ic_pass1"
+            android:drawablePadding="9dp"
+            android:padding="14dp"
+            android:background="@drawable/shape"
+            android:hint="@string/password1"
+            android:inputType="textPassword"
+            android:textColorHint="#1c2939"
+            android:importantForAccessibility="yes"
+            android:textColor="#000000"
+            android:tooltipText="@string/tool3"
+            android:hapticFeedbackEnabled="true"
+            tools:ignore="UnusedAttribute" />
+        <ImageView
+            android:id="@+id/showPass1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginTop="-37dp"
+            android:layout_marginEnd="18dp"
+            android:src="@drawable/passvisible"
+            android:onClick="ShowHidePass"
+            tools:ignore="OnClick,UsingOnClickInXml" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="99dp"
+        android:orientation="vertical"
+        android:id="@+id/ll3">
+
+        <Button
+            android:id="@+id/registerBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="27dp"
+            android:hapticFeedbackEnabled="true"
+            android:text="@string/registerbutton"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:textColor="#1C2939"
+            android:tooltipText="@string/tool4"
+            app:backgroundTint="#0FFFFFFF"
+            tools:ignore="UnusedAttribute" />
+        <TextView
+            android:id="@+id/alrlgn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/alrlgn"
+            android:textStyle="bold"
+            android:textColor="#1c2939"
+            android:tooltipText="@string/tool5"
+            android:hapticFeedbackEnabled="true"
+            tools:ignore="UnusedAttribute" />
+
+    </LinearLayout>
+
+</LinearLayout>
