@@ -1,14 +1,3 @@
-com/v/grootchat/BuildConfig.java
- com.v.grootchat.BuildConfig
-com/v/grootchat/Adapters/FragmentsAdapter.java
- com.v.grootchat.Adapters.FragmentsAdapter
-com/v/grootchat/Models/MessageModel.java
- com.v.grootchat.Models.MessageModel
-com/v/grootchat/Models/Users.java
- com.v.grootchat.Models.Users
-com/v/grootchat/Fragments/ChatsFragment.java
- com.v.grootchat.Fragments.ChatsFragment
- com.v.grootchat.Fragments.ChatsFragment$1
 com/v/grootchat/Fragments/StatusFragment.java
  com.v.grootchat.Fragments.StatusFragment
 com/v/grootchat/Adapters/UsersAdapter.java
@@ -50,8 +39,10 @@ com/v/grootchat/SignInActivity.java
  com.v.grootchat.SignInActivity$6
  com.v.grootchat.SignInActivity$6$1
  com.v.grootchat.SignInActivity$7
-com/v/grootchat/DevelopersScreen.java
- com.v.grootchat.DevelopersScreen
+com/v/grootchat/Adapters/FragmentsAdapter.java
+ com.v.grootchat.Adapters.FragmentsAdapter
+com/v/grootchat/Models/MessageModel.java
+ com.v.grootchat.Models.MessageModel
 com/v/grootchat/databinding/FragmentStatusBinding.java
  com.v.grootchat.databinding.FragmentStatusBinding
 com/v/grootchat/databinding/ActivitySignInBinding.java
@@ -62,9 +53,8 @@ com/v/grootchat/databinding/ActivityGroupChatBinding.java
  com.v.grootchat.databinding.ActivityGroupChatBinding
 com/v/grootchat/databinding/ActivitySplashBinding.java
  com.v.grootchat.databinding.ActivitySplashBinding
-com/v/grootchat/MainActivity.java
- com.v.grootchat.MainActivity
- com.v.grootchat.MainActivity$1
+com/v/grootchat/databinding/ActivitySettingsBinding.java
+ com.v.grootchat.databinding.ActivitySettingsBinding
 com/v/grootchat/Adapters/ChatAdapter.java
  com.v.grootchat.Adapters.ChatAdapter
  com.v.grootchat.Adapters.ChatAdapter$1
@@ -97,10 +87,17 @@ com/v/grootchat/OTPVerificationActivity.java
  com.v.grootchat.OTPVerificationActivity$7
 com/v/grootchat/databinding/SampleShowUserBinding.java
  com.v.grootchat.databinding.SampleShowUserBinding
+com/v/grootchat/BuildConfig.java
+ com.v.grootchat.BuildConfig
 com/v/grootchat/databinding/FragmentChatsBinding.java
  com.v.grootchat.databinding.FragmentChatsBinding
 com/v/grootchat/databinding/ActivityOtpverificationBinding.java
  com.v.grootchat.databinding.ActivityOtpverificationBinding
+com/v/grootchat/Fragments/ChatsFragment.java
+ com.v.grootchat.Fragments.ChatsFragment
+ com.v.grootchat.Fragments.ChatsFragment$1
+com/v/grootchat/Models/Users.java
+ com.v.grootchat.Models.Users
 com/v/grootchat/databinding/FragmentCallsBinding.java
  com.v.grootchat.databinding.FragmentCallsBinding
 com/v/grootchat/databinding/ActivitySignUpBinding.java
@@ -124,5 +121,8 @@ com/v/grootchat/SignUpActivity.java
  com.v.grootchat.SignUpActivity$2
  com.v.grootchat.SignUpActivity$2$1
  com.v.grootchat.SignUpActivity$3
-com/v/grootchat/databinding/ActivitySettingsBinding.java
- com.v.grootchat.databinding.ActivitySettingsBinding
+com/v/grootchat/MainActivity.java
+ com.v.grootchat.MainActivity
+ com.v.grootchat.MainActivity$1
+com/v/grootchat/DevelopersScreen.java
+ com.v.grootchat.DevelopersScreen

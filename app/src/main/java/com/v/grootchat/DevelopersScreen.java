@@ -72,4 +72,8 @@ public class DevelopersScreen extends AppCompatActivity {
 
         startActivity(intent);
     }
+
+    public void Back(View view) {
+        startActivity(new Intent(DevelopersScreen.this, MainActivity.class));
+    }
 }

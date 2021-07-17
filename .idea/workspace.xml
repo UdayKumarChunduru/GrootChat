@@ -83,7 +83,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="experimental" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -378,10 +378,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="207" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1624298087470" />
-    <state x="277" y="62" key="SettingsEditor" timestamp="1624011650213">
+    <state x="277" y="62" key="SettingsEditor" timestamp="1626513803628">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="277" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1624011650213" />
+    <state x="277" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1626513803628" />
     <state x="584" y="195" key="chooseDestDirectoryDialog" timestamp="1626506692069">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

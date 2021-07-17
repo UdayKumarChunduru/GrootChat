@@ -20,7 +20,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.GrootChat">
-        <activity android:name=".DevelopersScreen"></activity>
+        <activity android:name=".DevelopersScreen"
+            android:parentActivityName=".MainActivity"></activity>
         <activity android:name=".FingerprintActivity"></activity>
         <activity
             android:name=".SettingsActivity"
@@ -40,7 +41,8 @@
         <activity android:name=".GroupChatActivity" />
         <activity android:name=".SignInActivity"></activity>
         <activity android:name=".SignUpActivity" />
-        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".MainActivity"
+            android:configChanges="uiMode"></activity>
         <activity android:name=".SplashActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

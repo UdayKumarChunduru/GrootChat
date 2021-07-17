@@ -50,7 +50,9 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.GrootChat" >
-        <activity android:name="com.v.grootchat.DevelopersScreen" />
+        <activity
+            android:name="com.v.grootchat.DevelopersScreen"
+            android:parentActivityName="com.v.grootchat.MainActivity" />
         <activity android:name="com.v.grootchat.FingerprintActivity" />
         <activity
             android:name="com.v.grootchat.SettingsActivity"
